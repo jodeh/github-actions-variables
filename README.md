@@ -1,2 +1,1 @@
 # Variables
-# test variable
